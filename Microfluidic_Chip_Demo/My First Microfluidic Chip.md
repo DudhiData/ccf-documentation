@@ -38,6 +38,6 @@ This is a relatively simple design so I don't have to worry about a lot of typic
 
 BTW - klayout is a horribly confusing piece of software at first use. I recommend doing some reading as it took me over a day to fully know how to do some basic operations with it. Although to be fair I could be slow.
 
-##### Ports
+ **Ports Note:** Ports do not need to be put in the mask. We can punch these after with a mm punch.
 
-Ports do not need to be put in the mask. We can punch these after with a mm punch.
+Ok so now that this mask is in klayout. I can export as a gds file! I have put it in the same directory as this chip demo (you won't be able to see it in obsidian but you can check your files.)
