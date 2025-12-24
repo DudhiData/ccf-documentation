@@ -5,11 +5,6 @@ In this demo I'll be designing and fabricating my first microfluidic chip.
 Here is an awesome resource to use btw!
 https://www.youtube.com/@dk-hu3er/videos
 
-Things to do:
-- Make the mask
-- fabricate the channels on the slide
-- punch input and output ports
-
 ## Design
 
 The design of my chip is very simple. I wanted to do a quick y-channel mix with followed by a serpentine channel and then the outtake. The y-junction combines the two liquids and the serpentine track aids in mixing. This should hopefully be a simple first build.
@@ -48,3 +43,9 @@ Ok so now that this mask is in klayout. I can export as a gds file! I have put i
 
 ### 2) Print the Mask
 
+- What resolution is the printer?
+- Ways to make masks and what am I using?
+- Where do I find this film?
+- Do i use gds or a pdf? Is a pdf precise enough?
+
+For printing the mask
