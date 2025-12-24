@@ -12,7 +12,11 @@ Things to do:
 
 ## Design
 
-The design of my chip is very simple. I wanted to do a quick y-channel mix with followed by a serpentine channel and then the outake. The y-junction combines the two liquids and the serpentine track aids in mixing. This should hopefully be a simple first build.
+The design of my chip is very simple. I wanted to do a quick y-channel mix with followed by a serpentine channel and then the outtake. The y-junction combines the two liquids and the serpentine track aids in mixing. This should hopefully be a simple first build.
+
+To make this chip I will be using soft lithography with PDMS as opposed to wet etching or laser ablation. Wet etching on a rigid substrate is much more dangerous and requires stronger chemicals that are overkill for prototyping. Laser ablation requires a very strong and advanced laser that is also beyond my scope at this moment (they typically cost 6 figures!) 
+
+Since this is soft lithography on PDMS, I can punch holes after lithography with just some punches.
 
 ## Process for Creating the Chip
 
@@ -36,4 +40,4 @@ BTW - klayout is a horribly confusing piece of software at first use. I recommen
 
 ##### Ports
 
-Ports are weird. You need them for the chip to function.
+Ports do not need to be put in the mask. We can punch these after with a mm punch.
