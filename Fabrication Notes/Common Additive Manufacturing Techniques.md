@@ -4,7 +4,7 @@ Additive Manufacturing is when you decide to change a material by adding additio
 There are many common additive manufacturing techniques used in microfabrication including:
 - [[Chemical Vapor Deposition (CVD)]]
 - [[Thermal Oxidation]]
-- Physical Vapor Deposition
-- Sol-Gel Deposition
-- Spin Coating
-- Doping
+- [[Physical Vapor Deposition (PVD)]]
+- [[Sol-Gel Deposition]]
+- [[Spin Coating]]
+- [[Doping]]

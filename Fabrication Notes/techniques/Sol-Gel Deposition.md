@@ -1,0 +1,2 @@
+
+In sol-gel deposition, polymer particle are disolved into a solvent and spin-coated on the substrate. This forms a gelatinous network on the substrate. Removing the solvent soldiifies the gel into a thin film. This technique can be used to deposite ceramics.
