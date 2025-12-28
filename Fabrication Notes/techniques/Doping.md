@@ -8,7 +8,13 @@ The two main steps of doping are:
 
 This is a very important technique for microelectronics. This involves putting ions of a different type (generally with either 3 or 5 valence electrons) into a semiconductor or material (typically silicon) to add additional charge carriers in the material. This is typically done by using a particle accelerator and bombarding the substrate.
 
-This method can also be used in silicon to fabricate an insulating layer such as Silicon dioxide in the substrate. At high temperature, oxygen ions that have been implanted in the material create an oxide layer off of the surface. The crystal defects above this layer in silicon are repaired automatically and this process is called **separation by implantation of oxygen (SIMOX)**. The single layer is called **silicon on insulator (SOI)**. 
-
 #### Drive-in Diffusion
-A
+
+After ion implantation, the material is usually slighlty disfigured and many of the dopants are clustered. The material is then covered with a thin layer of the dopants and heated (annealed) to redistribute internal dopants internally and near the surface.
+
+
+#### See also
+- [[Silicon on Insulator (SOI)]]
+- [[Separation by Implantation of Oxygen (SIMOX)]]
+
+
