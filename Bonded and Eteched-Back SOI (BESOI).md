@@ -1,1 +1,0 @@
-This is a device used to create SOI chips
