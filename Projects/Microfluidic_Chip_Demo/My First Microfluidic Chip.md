@@ -39,7 +39,7 @@ BTW - klayout is a horribly confusing piece of software at first use. I recommen
 
  **Ports Note:** Ports do not need to be put in the mask. We can punch these after with a mm punch.
 
-Ok so now that this mask is in klayout. I can export as a gds file! I have put it in the same directory as this chip demo (you won't be able to see it in obsidian but you can check your files.)
+Ok so now that this mask is in klayout. I can export as a pdf file! I have put it in the same directory as this chip demo (you won't be able to see it in obsidian but you can check your files.)
 
 ### 2) Print the Mask
 
@@ -48,4 +48,11 @@ Ok so now that this mask is in klayout. I can export as a gds file! I have put i
 - Where do I find this film?
 - Do i use gds or a pdf? Is a pdf precise enough?
 
-For printing the mask
+For printing the mask you should be able to use any laser printer at your house for this chip. The biggest holdup with consumer grade laser printers is the channels can't get too small (think < 100 micrometers wide) but fortunately since this is a first chip I don't care as long as the chip works so mine are about 150 micrometers.
+
+The printer I am using is: https://support.hp.com/rs-en/product/product-specs/hp-laser-1320-series/410622
+
+As far as I know, you just need to throw your transparent film (compatible with your printer - so a laser printer gets a laser compatible film) on the printer.
+
+**Lithography Note:** There are other ways to mask your device when doing lithography. Machines called steppers are used to perform the UV exposure and can be made so precise with the deposition of light on the target material that masks are not needed. These maskless steppers are beyond the scope of this project however.
+

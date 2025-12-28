@@ -1,4 +1,5 @@
 # Carolina Chip Fab Documentation
+
 Welcome to the Carolina Chip Fab Knowledge Base!
 
 In this repo we use obsidian to store knowledge and documentation from all of our various projects. This includes team projects and smaller research projects.
