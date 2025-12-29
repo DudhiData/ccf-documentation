@@ -5,3 +5,6 @@
 - what is a planar mosfet
 - more detail on FinFETs
 - GAAFET / nanosheet
+- FlexFET
+- DGMOS
+- 

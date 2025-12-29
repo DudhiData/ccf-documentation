@@ -1,1 +1,1 @@
-This is a technique used to create SOI chips
+This is a technique used to create SOI chips with very thick [[Silicon on Insulator (SOI)]] layers. This technique has two polished silicon wagers that both have oxide layers on the side. The two wafers are then bonded together using fusion bonding. One wafer is then thinned to the desired thickness for both the wafer, the silicon dioxide, and the total width, using [[Chemical-Mechanical Polishing (CMP)]].

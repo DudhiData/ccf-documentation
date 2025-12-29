@@ -1,6 +1,12 @@
-Doping is the process of putting a new material inside of another material (generally in an interstitial manner) to modify its properties in some manner.
+Doping is the process of putting a new material inside of another material (generally in an interstitial manner) to modify its properties in some manner. These new materials are called [[Dopants]].
 
-The two main steps of doping are:
+#### Passive Doping
+
+This is the process of doping where you heat a target material and introduce doping material nearby and let diffusion intersperse the doping material in to the target material lattice. This method is slow, simple, and generally leaves higher concentrations near the surface of the target material.
+
+#### Active Doping
+
+The two main steps of Active doping are:
 - Ion implantation
 - Drive-in Diffusion
 
