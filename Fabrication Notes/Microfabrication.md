@@ -19,6 +19,9 @@ A list of many fabrication methods (although not exhaustive):
 - [[Lithography]]
 
 
-#### Silicon and other materials
+#### Silicon and Silicon Microfabrication
 
 No conversation on microfabrication is complete without a discussion of silicon. Silicon is by far the most well established material for microfabrication due to its long history in microelectronics. One of the most important forms of silicon is [[Single Crystalline Silicon]].
+
+**Silicon Fabrication and Machining Notes**
+

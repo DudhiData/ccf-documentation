@@ -7,4 +7,6 @@
 - GAAFET / nanosheet
 - FlexFET
 - DGMOS
+- Silicon etching chemistry (in [[Microfabrication#Silicon and Silicon Microfabrication]]) and etch stops (using electron control)
+- Trench profile and etch rate calculations (in [[Microfabrication#Silicon and Silicon Microfabrication]])
 - 

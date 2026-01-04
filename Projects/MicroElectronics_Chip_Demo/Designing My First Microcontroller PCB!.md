@@ -1,3 +1,11 @@
+This includes:
+- Schematic Design
+- Simulation
+- PCB Layout
+- Thermal Anaylis
+
+
+
 
 Good Resources:
 - Watch PCB design competitions online and google or AI everything they say
